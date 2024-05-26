@@ -1,2 +1,2 @@
 # Chard-s-Website
-My Website
+A school website dedicated to my former highschool: Kokwanyo Mixed Secondary School
